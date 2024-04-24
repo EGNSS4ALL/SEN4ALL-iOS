@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>chevron_down</title>
+    <g id="chevron_down" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g transform="translate(4.000000, 8.000000)" id="Path" stroke="#999999">
+            <polyline points="16.5 0 8.25 7.5 0 0"></polyline>
+        </g>
+    </g>
+</svg>

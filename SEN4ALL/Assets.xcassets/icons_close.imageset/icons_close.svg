@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icons_close</title>
+    <g id="icons_close" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="Group" transform="translate(12.890094, 12.890094)" stroke="#1A1A1A">
+            <line x1="-3.2734467" y1="9.24960623" x2="21.4932591" y2="8.97020615" id="Line-Copy-2" transform="translate(9.109906, 9.109906) rotate(45.000000) translate(-9.109906, -9.109906) "></line>
+            <line x1="-3.2734467" y1="9.24960623" x2="21.4932591" y2="8.97020615" id="Line-Copy-3" transform="translate(9.109906, 9.109906) scale(-1, 1) rotate(45.000000) translate(-9.109906, -9.109906) "></line>
+        </g>
+    </g>
+</svg>

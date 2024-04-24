@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icons_search</title>
+    <g id="icons_search" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(12.667262, 12.667262) rotate(-45.000000) translate(-12.667262, -12.667262) translate(6.167262, 2.667262)" stroke="#FF8600">
+            <ellipse id="Oval" stroke-width="1.04" cx="6.5" cy="6.54974629" rx="6.5" ry="6.54974629"></ellipse>
+            <line x1="4.18431499" y1="14.4094418" x2="8.81568501" y2="19.0408119" id="Line" stroke-width="1.5" stroke-linecap="round" transform="translate(6.500000, 16.725127) rotate(45.000000) translate(-6.500000, -16.725127) "></line>
+        </g>
+    </g>
+</svg>
